@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fileGuidTable>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_SaoPaulo.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4ba</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_SaoPaulo_Time.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bb</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Corinthians.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bc</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Corinthians_Time.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bd</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Palmeiras.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4be</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Palmeiras_Time.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bf</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Santos.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bg</guid>
+    </files>
+    <files>
+        <path>media/clothing/clothingItems/Tshirt_Santos_Time.xml</path>
+        <guid>1ef39252-ab14-4975-8312-25e190ddb4bh</guid>
+    </files>
+</fileGuidTable>

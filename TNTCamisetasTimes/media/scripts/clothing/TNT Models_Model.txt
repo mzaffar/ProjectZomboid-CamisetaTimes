@@ -1,0 +1,65 @@
+module Base
+{	
+	model Shirt_Ground_TNT
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_SaoPaulo,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_SaoPaulo
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_SaoPaulo,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_SaoPaulo_Time
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_SaoPaulo_Time,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Corinthians
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Corinthians,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Corinthians_Time
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Corinthians_Time,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Santos
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Santos,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Santos_Time
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Santos_Time,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Palmeiras
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Palmeiras,
+        scale = 0.3000,
+	}
+	
+	model TNT_Shirt_Ground_Palmeiras_Time
+	{
+		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+        texture = Clothes/TNT/TShirt_Palmeiras_Time,
+        scale = 0.3000,
+	}
+}

@@ -1,0 +1,128 @@
+module TNT 
+{
+    imports
+	{
+		Base,
+	}
+    
+    item Tshirt_SaoPaulo
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do São Paulo,
+        ClothingItem         = Tshirt_SaoPaulo,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaSaoPaulo,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_SaoPaulo,
+    }
+
+    item Tshirt_SaoPaulo_Time
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do São Paulo (Time),
+        ClothingItem         = Tshirt_SaoPaulo_Time,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaSaoPauloTime,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_SaoPaulo_Time,
+    }
+
+    item Tshirt_Corinthians
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Corinthians,
+        ClothingItem         = Tshirt_Corinthians,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaCorinthians,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Corinthians,
+    }
+
+    item Tshirt_Corinthians_Time
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Corinthians (Time),
+        ClothingItem         = Tshirt_Corinthians_Time,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaCorinthiansTime,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Corinthians_Time,
+    }
+
+    item Tshirt_Palmeiras
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Palmeiras,
+        ClothingItem         = Tshirt_Palmeiras,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaPalmeiras,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Palmeiras,
+    }
+
+    item Tshirt_Palmeiras_Time
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Palmeiras (Time),
+        ClothingItem         = Tshirt_Palmeiras_Time,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaPalmeirasTime,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Palmeiras_Time,
+    }
+
+    item Tshirt_Santos
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Santos,
+        ClothingItem         = Tshirt_Santos,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaSantos,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Santos,
+    }
+
+    item Tshirt_Santos_Time
+    {
+        DisplayCategory      = Clothing,
+        Type                 = Clothing,
+        DisplayName          = Camiseta do Santos (Time),
+        ClothingItem         = Tshirt_Santos_Time,
+        BodyLocation         = Tshirt,
+        Icon	             = TNTCamisetaSantosTime,
+        BloodLocation        = Shirt,
+        Insulation           = 0.2,
+        WindResistance       = 0.05,
+        FabricType           = Cotton,
+        WorldStaticModel     = TNT_Shirt_Ground_Santos_Time,
+    }
+    
+}
