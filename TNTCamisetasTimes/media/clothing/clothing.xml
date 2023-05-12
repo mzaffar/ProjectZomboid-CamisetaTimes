@@ -92,6 +92,51 @@
     <m_items>
       <itemGUID>1ef39252-ab14-4975-8312-25e190ddb428</itemGUID>
     </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb429</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb430</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb431</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb432</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb433</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb434</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb435</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb436</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb437</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb438</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb439</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb440</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb441</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb442</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb443</itemGUID>
+    </m_items>
   </m_MaleOutfits>
   <m_FemaleOutfits>
     <m_Name>TNT_Female</m_Name>
@@ -184,6 +229,51 @@
     </m_items>
     <m_items>
       <itemGUID>1ef39252-ab14-4975-8312-25e190ddb428</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb429</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb430</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb431</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb432</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb433</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb434</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb435</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb436</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb437</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb438</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb439</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb440</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb441</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb442</itemGUID>
+    </m_items>
+    <m_items>
+      <itemGUID>1ef39252-ab14-4975-8312-25e190ddb443</itemGUID>
     </m_items>
   </m_FemaleOutfits>
 </outfitManager>

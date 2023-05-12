@@ -8,17 +8,39 @@
 
 ## 📝 Times atuais
 
+Athletico PR
+
+Athletico PR (Time)
+
+Atletico MG
+
+Atletico MG (Time)
+
+Bahia
+
+Bahia (Time)
+
+Cascavel
+
+Cascavel (Time)
+
 Caxias
 
 Caxias (Time)
 
 Ceara
 
+Ceara Internacional
+
 Ceara (Time)
 
 Corinthians
 
 Corinthians (Time)
+
+Cruzeiro
+
+Cruzeiro (Time)
 
 Flamengo
 
@@ -40,6 +62,10 @@ Internacional
 
 Internacional (Time)
 
+Jacuipense
+
+Jacuipense (Time)
+
 Palmeiras
 
 Palmeiras (Time)
@@ -51,6 +77,10 @@ Santos (Time)
 Sao Paulo
 
 Sao Paulo (Time)
+
+Sport
+
+Sport (Time)
 
 Vasco
 

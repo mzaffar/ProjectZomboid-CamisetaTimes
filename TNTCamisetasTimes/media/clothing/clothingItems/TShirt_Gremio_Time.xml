@@ -2,7 +2,7 @@
 <clothingItem>
   <m_MaleModel></m_MaleModel>
   <m_FemaleModel></m_FemaleModel>
-  <m_GUID>1ef39252-ab14-4975-8312-25e190ddb414</m_GUID>
+  <m_GUID>1ef39252-ab14-4975-8312-25e190ddb425</m_GUID>
   <m_Static>false</m_Static>
   <m_AttachBone></m_AttachBone>
   <m_BaseTextures>clothes\TNT\TShirt_Gremio_Time</m_BaseTextures>
