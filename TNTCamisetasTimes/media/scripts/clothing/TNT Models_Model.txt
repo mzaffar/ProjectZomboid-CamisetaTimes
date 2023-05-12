@@ -1,65 +1,305 @@
 module Base
-{	
-	model Shirt_Ground_TNT
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_SaoPaulo,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_SaoPaulo
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_SaoPaulo,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_SaoPaulo_Time
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_SaoPaulo_Time,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Corinthians
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Corinthians,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Corinthians_Time
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Corinthians_Time,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Santos
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Santos,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Santos_Time
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Santos_Time,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Palmeiras
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Palmeiras,
-        scale = 0.3000,
-	}
-	
-	model TNT_Shirt_Ground_Palmeiras_Time
-	{
-		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
-        texture = Clothes/TNT/TShirt_Palmeiras_Time,
-        scale = 0.3000,
-	}
+{
+
+           model TNT_Shirt_Ground_AthleticoPR
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_AthleticoPR,
+       scale = 0.3000,
 }
+   
+      model TNT_Shirt_Ground_AthleticoPR_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_AthleticoPR_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_AtleticoMG
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_AtleticoMG,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_AtleticoMG_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_AtleticoMG_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Bahia
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Bahia,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Bahia_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Bahia_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Cascavel
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Cascavel,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Cascavel_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Cascavel_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Caxias
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Caxias,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Caxias_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Caxias_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Ceara
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Ceara,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Ceara_Internacional
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Ceara_Internacional,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Ceara_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Ceara_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Corinthians
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Corinthians,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Corinthians_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Corinthians_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Cruzeiro
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Cruzeiro,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Cruzeiro_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Cruzeiro_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Flamengo
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Flamengo,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Flamengo_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Flamengo_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Fluminense
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Fluminense,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Fluminense_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Fluminense_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Fortaleza
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Fortaleza,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Fortaleza_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Fortaleza_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Gremio
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Gremio,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Gremio_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Gremio_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Internacional
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Internacional,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Internacional_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Internacional_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Jacuipense
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Jacuipense,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Jacuipense_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Jacuipense_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Palmeiras
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Palmeiras,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Palmeiras_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Palmeiras_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Santos
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Santos,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Santos_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Santos_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_SaoPaulo
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_SaoPaulo,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_SaoPaulo_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_SaoPaulo_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Sport
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Sport,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Sport_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Sport_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Vasco
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Vasco,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Vasco_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Vasco_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_VoltaRedonda
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_VoltaRedonda,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_VoltaRedonda_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_VoltaRedonda_Time,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Ypiranga
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Ypiranga,
+       scale = 0.3000,
+}
+   
+      model TNT_Shirt_Ground_Ypiranga_Time
+{
+  		mesh = WorldItems/Clothing/Shirt_Ground_TNT,
+       texture = Clothes/TNT/TShirt_Ypiranga_Time,
+       scale = 0.3000,
+}
+   
+   }

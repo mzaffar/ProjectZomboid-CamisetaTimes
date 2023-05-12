@@ -8,7 +8,89 @@
 
 ## 📝 Times atuais
 
-- Corinthans
-- Palmeiras
-- Santos
-- São Paulo
+Athletico PR
+
+Athletico PR (Time)
+
+Atletico MG
+
+Atletico MG (Time)
+
+Bahia
+
+Bahia (Time)
+
+Cascavel
+
+Cascavel (Time)
+
+Caxias
+
+Caxias (Time)
+
+Ceara
+
+Ceara Internacional
+
+Ceara (Time)
+
+Corinthians
+
+Corinthians (Time)
+
+Cruzeiro
+
+Cruzeiro (Time)
+
+Flamengo
+
+Flamengo (Time)
+
+Fluminense
+
+Fluminense (Time)
+
+Fortaleza
+
+Fortaleza (Time)
+
+Gremio
+
+Gremio (Time)
+
+Internacional
+
+Internacional (Time)
+
+Jacuipense
+
+Jacuipense (Time)
+
+Palmeiras
+
+Palmeiras (Time)
+
+Santos
+
+Santos (Time)
+
+Sao Paulo
+
+Sao Paulo (Time)
+
+Sport
+
+Sport (Time)
+
+Vasco
+
+Vasco (Time)
+
+Volta Redonda
+
+Volta Redonda (Time)
+
+Ypiranga
+
+Ypiranga (Time)
+
