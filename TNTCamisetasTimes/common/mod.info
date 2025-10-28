@@ -1,0 +1,5 @@
+name=Camisetas de times
+id=tnt_camisetas_times
+description=Camisetas de times de futebol brasileiros.
+poster=poster.png
+build=41,42
