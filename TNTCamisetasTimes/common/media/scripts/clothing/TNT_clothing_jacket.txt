@@ -1,0 +1,653 @@
+module TNT 
+{
+    imports
+ {
+  Base,
+ }
+
+item TShirt_AthleticoPR
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Athletico PR,
+    ClothingItem         = TShirt_AthleticoPR,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaAthleticoPR,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_AthleticoPR,
+}
+
+item TShirt_AthleticoPR_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Athletico PR (Time),
+    ClothingItem         = TShirt_AthleticoPR_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaAthleticoPRTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_AthleticoPR_Time,
+}
+
+item TShirt_AtleticoMG
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Atletico MG,
+    ClothingItem         = TShirt_AtleticoMG,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaAtleticoMG,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_AtleticoMG,
+}
+
+item TShirt_AtleticoMG_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Atletico MG (Time),
+    ClothingItem         = TShirt_AtleticoMG_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaAtleticoMGTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_AtleticoMG_Time,
+}
+
+item TShirt_Bahia
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Bahia,
+    ClothingItem         = TShirt_Bahia,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaBahia,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Bahia,
+}
+
+item TShirt_Bahia_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Bahia (Time),
+    ClothingItem         = TShirt_Bahia_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaBahiaTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Bahia_Time,
+}
+
+item TShirt_Cascavel
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Cascavel,
+    ClothingItem         = TShirt_Cascavel,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCascavel,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Cascavel,
+}
+
+item TShirt_Cascavel_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Cascavel (Time),
+    ClothingItem         = TShirt_Cascavel_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCascavelTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Cascavel_Time,
+}
+
+item TShirt_Caxias
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Caxias,
+    ClothingItem         = TShirt_Caxias,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCaxias,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Caxias,
+}
+
+item TShirt_Caxias_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Caxias (Time),
+    ClothingItem         = TShirt_Caxias_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCaxiasTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Caxias_Time,
+}
+
+item TShirt_Ceara
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Ceara,
+    ClothingItem         = TShirt_Ceara,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCeara,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Ceara,
+}
+
+item TShirt_Ceara_Internacional
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Ceara Internacional,
+    ClothingItem         = TShirt_Ceara_Internacional,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCearaInternacional,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Ceara_Internacional,
+}
+
+item TShirt_Ceara_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Ceara (Time),
+    ClothingItem         = TShirt_Ceara_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCearaTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Ceara_Time,
+}
+
+item TShirt_Corinthians
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Corinthians,
+    ClothingItem         = TShirt_Corinthians,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCorinthians,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Corinthians,
+}
+
+item TShirt_Corinthians_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Corinthians (Time),
+    ClothingItem         = TShirt_Corinthians_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCorinthiansTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Corinthians_Time,
+}
+
+item TShirt_Cruzeiro
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Cruzeiro,
+    ClothingItem         = TShirt_Cruzeiro,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCruzeiro,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Cruzeiro,
+}
+
+item TShirt_Cruzeiro_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Cruzeiro (Time),
+    ClothingItem         = TShirt_Cruzeiro_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaCruzeiroTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Cruzeiro_Time,
+}
+
+item TShirt_Flamengo
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Flamengo,
+    ClothingItem         = TShirt_Flamengo,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFlamengo,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Flamengo,
+}
+
+item TShirt_Flamengo_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Flamengo (Time),
+    ClothingItem         = TShirt_Flamengo_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFlamengoTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Flamengo_Time,
+}
+
+item TShirt_Fluminense
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Fluminense,
+    ClothingItem         = TShirt_Fluminense,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFluminense,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Fluminense,
+}
+
+item TShirt_Fluminense_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Fluminense (Time),
+    ClothingItem         = TShirt_Fluminense_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFluminenseTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Fluminense_Time,
+}
+
+item TShirt_Fortaleza
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Fortaleza,
+    ClothingItem         = TShirt_Fortaleza,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFortaleza,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Fortaleza,
+}
+
+item TShirt_Fortaleza_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Fortaleza (Time),
+    ClothingItem         = TShirt_Fortaleza_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaFortalezaTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Fortaleza_Time,
+}
+
+item TShirt_Gremio
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Gremio,
+    ClothingItem         = TShirt_Gremio,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaGremio,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Gremio,
+}
+
+item TShirt_Gremio_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Gremio (Time),
+    ClothingItem         = TShirt_Gremio_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaGremioTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Gremio_Time,
+}
+
+item TShirt_Internacional
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Internacional,
+    ClothingItem         = TShirt_Internacional,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaInternacional,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Internacional,
+}
+
+item TShirt_Internacional_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Internacional (Time),
+    ClothingItem         = TShirt_Internacional_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaInternacionalTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Internacional_Time,
+}
+
+item TShirt_Jacuipense
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Jacuipense,
+    ClothingItem         = TShirt_Jacuipense,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaJacuipense,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Jacuipense,
+}
+
+item TShirt_Jacuipense_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Jacuipense (Time),
+    ClothingItem         = TShirt_Jacuipense_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaJacuipenseTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Jacuipense_Time,
+}
+
+item TShirt_Palmeiras
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Palmeiras,
+    ClothingItem         = TShirt_Palmeiras,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaPalmeiras,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Palmeiras,
+}
+
+item TShirt_Palmeiras_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Palmeiras (Time),
+    ClothingItem         = TShirt_Palmeiras_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaPalmeirasTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Palmeiras_Time,
+}
+
+item TShirt_Santos
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Santos,
+    ClothingItem         = TShirt_Santos,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSantos,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Santos,
+}
+
+item TShirt_Santos_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Santos (Time),
+    ClothingItem         = TShirt_Santos_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSantosTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Santos_Time,
+}
+
+item TShirt_SaoPaulo
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Sao Paulo,
+    ClothingItem         = TShirt_SaoPaulo,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSaoPaulo,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_SaoPaulo,
+}
+
+item TShirt_SaoPaulo_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Sao Paulo (Time),
+    ClothingItem         = TShirt_SaoPaulo_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSaoPauloTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_SaoPaulo_Time,
+}
+
+item TShirt_Sport
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Sport,
+    ClothingItem         = TShirt_Sport,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSport,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Sport,
+}
+
+item TShirt_Sport_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Sport (Time),
+    ClothingItem         = TShirt_Sport_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaSportTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Sport_Time,
+}
+
+item TShirt_Vasco
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Vasco,
+    ClothingItem         = TShirt_Vasco,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaVasco,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Vasco,
+}
+
+item TShirt_Vasco_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Vasco (Time),
+    ClothingItem         = TShirt_Vasco_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaVascoTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Vasco_Time,
+}
+
+item TShirt_VoltaRedonda
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Volta Redonda,
+    ClothingItem         = TShirt_VoltaRedonda,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaVoltaRedonda,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_VoltaRedonda,
+}
+
+item TShirt_VoltaRedonda_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Volta Redonda (Time),
+    ClothingItem         = TShirt_VoltaRedonda_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaVoltaRedondaTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_VoltaRedonda_Time,
+}
+
+item TShirt_Ypiranga
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Ypiranga,
+    ClothingItem         = TShirt_Ypiranga,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaYpiranga,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Ypiranga,
+}
+
+item TShirt_Ypiranga_Time
+{
+    DisplayCategory      = Clothing,
+    Type                 = Clothing,
+    DisplayName          = Camiseta do Ypiranga (Time),
+    ClothingItem         = TShirt_Ypiranga_Time,
+    BodyLocation         = Tshirt,
+    Icon	             = TNTCamisetaYpirangaTime,
+    BloodLocation        = Shirt,
+    Insulation           = 0.2,
+    WindResistance       = 0.05,
+    FabricType           = Cotton,
+    WorldStaticModel     = TNT_Shirt_Ground_Ypiranga_Time,
+}
+
+}
